@@ -18,6 +18,7 @@ public class Main {
                   int temp = dizi2[i];
                       dizi2[i]=dizi2[j];
                       dizi2[j]=temp;
+                     
               }
           }
       }
